@@ -1,2 +1,3 @@
-# fin230851-api
-ScrumDev AI backend (fin230851-api)
+# FIN230851 - Backend
+
+FastAPI desplegado en Render.
